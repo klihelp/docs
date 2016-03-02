@@ -4,18 +4,31 @@ An ever-growing list of all things documentation. Be it guidelines, workflows, s
 
 ## Examples
 
-- [North](http://pointnorth.io/)
-- [Workshop Manual](http://workmanship.io/)
-- [Code Guide](http://codeguide.co/)
+### Agency Examples
+
 - [Front End Dev Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/)
 - [Tao](http://tao.wearefriday.com/engineering/frontend/)
 - [Creative Jar Guidelines](http://creativejar.github.io/guidelines/)
 - [CX Partners Coding Standards](https://github.com/cxpartners/coding-standards)
+
+### Personal Examples
+
+- [North](http://pointnorth.io/)
+- [Workshop Manual](http://workmanship.io/)
+- [Code Guide](http://codeguide.co/)
+- [Mark Browns Standards Guidelines](http://www.yellowshoe.com.au/standards/)
+
+### Government Examples
+
+- [GOV.UK Styleguides](https://github.com/alphagov/styleguides)
+- [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
+
+### Online Business Examples
+
 - [Financial Times' Origami Developer Guide](http://origami.ft.com/docs/developer-guide/)
 - [Lonely Planet's Rizzo](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
-- [Mark Browns Standards Guidelines](http://www.yellowshoe.com.au/standards/)
-- [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
 - [Mapbox Styleguide](https://www.mapbox.com/base/)
+
 
 ### HTML
 
