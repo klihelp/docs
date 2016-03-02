@@ -11,8 +11,11 @@ An ever-growing list of all things documentation. Be it guidelines, workflows, s
 - [Tao](http://tao.wearefriday.com/engineering/frontend/)
 - [Creative Jar Guidelines](http://creativejar.github.io/guidelines/)
 - [CX Partners Coding Standards](https://github.com/cxpartners/coding-standards)
-- [Origami Developer Guide](http://origami.ft.com/docs/developer-guide/)
-- [Origami Syntax Rules and Standards](http://origami.ft.com/docs/syntax/)
+- [Financial Times' Origami Developer Guide](http://origami.ft.com/docs/developer-guide/)
+- [Lonely Planet's Rizzo](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+- [Mark Browns Standards Guidelines](http://www.yellowshoe.com.au/standards/)
+- [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
+- [Mapbox Styleguide](https://www.mapbox.com/base/)
 
 ### HTML
 
@@ -25,6 +28,9 @@ An ever-growing list of all things documentation. Be it guidelines, workflows, s
 - [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
 - [Idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass)
 - [DigiPaint SCSS Style Guide](https://github.com/DigitPaint/scss-style-guide)
+- [AirBnb CSS / Sass Style Guide](https://github.com/airbnb/css)
+- [Wordpress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
+
 
 ### JavaScript
 
