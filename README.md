@@ -9,6 +9,10 @@ An ever-growing list of all things documentation. Be it guidelines, workflows, s
 - [Code Guide](http://codeguide.co/)
 - [Front End Dev Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/)
 - [Tao](http://tao.wearefriday.com/engineering/frontend/)
+- [Creative Jar Guidelines](http://creativejar.github.io/guidelines/)
+- [CX Partners Coding Standards](https://github.com/cxpartners/coding-standards)
+- [Origami Developer Guide](http://origami.ft.com/docs/developer-guide/)
+- [Origami Syntax Rules and Standards](http://origami.ft.com/docs/syntax/)
 
 ### HTML
 
@@ -20,7 +24,9 @@ An ever-growing list of all things documentation. Be it guidelines, workflows, s
 - [Sass Guidelines](http://sass-guidelin.es/)
 - [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
 - [Idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass)
+- [DigiPaint SCSS Style Guide](https://github.com/DigitPaint/scss-style-guide)
 
 ### JavaScript
 
 - [Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/)
+- [DigiPaint JavaScript Style Guide](https://github.com/DigitPaint/javascript)
