@@ -46,6 +46,7 @@ An ever-growing list of all things documentation. Be it guidelines, workflows, s
 - [Wordpress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
 - [Trello CSS Styleguide](https://github.com/trello/trellisheets/blob/master/styleguide.md)
 - [Tachyons](http://tachyons.io/docs/)
+- [XOP CSS Code Guide](https://github.com/XOP/css-codeguide)
 
 
 ### JavaScript
