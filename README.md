@@ -23,13 +23,13 @@ An ever-growing list of all things documentation. Be it guidelines, workflows, s
 - [GOV.UK Styleguides](https://github.com/alphagov/styleguides)
 - [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
 
-### Online Business Examples
+### Other Examples
 
 - [Financial Times' Origami Developer Guide](http://origami.ft.com/docs/developer-guide/)
 - [Lonely Planet's Rizzo](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 - [Mapbox Styleguide](https://www.mapbox.com/base/)
 - [Salesforce Markup and style](http://www.lightningdesignsystem.com/getting-started/markup-and-style/)
-
+- [IBM Design Language](http://www.ibm.com/design/language/framework)
 
 ### HTML
 
