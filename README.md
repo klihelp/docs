@@ -20,6 +20,7 @@ An ever-growing list of all things documentation. Be it guidelines, workflows, s
 
 ### Government Examples
 
+- [Government Design Systems & Style Guides](http://government.github.io/best-practices/design-systems/)
 - [GOV.UK Styleguides](https://github.com/alphagov/styleguides)
 - [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
 
